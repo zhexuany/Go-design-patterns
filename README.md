@@ -1,2 +1,79 @@
-# Go-design-patterns
-Design patterns implemented in Go. 
+# Introduction
+
+
+# TODO list
+- [ ] Adapter
+- [ ] Caching
+- [ ] Callback
+- [ ] Bridge
+- [ ] Chain
+- [ ] Command
+- [ ] API-gateway
+- [ ] Dao
+- [ ] Data-mapper
+- [ ] delegation
+- [ ] Decorator
+- [ ] Dependency-injection
+- [ ] Double-checked-locking
+- [ ] Double-dispatch
+- [ ] Event-aggreator
+- [ ] Event-asynchronous
+- [ ] Event-driven-architure
+- [ ] Execute-around
+- [ ] Facade
+- [ ] Factory-kit
+- [ ] Factory-method 
+- [ ] Feature-toggle
+- [ ] Fluentinterface
+- [ ] flux
+- [ ] Singleton
+- [ ] Vistor
+- [ ] Twin
+- [ ] Value-object
+- [ ] Tolerant-reader
+- [ ] Thred-pool
+- [ ] strategy
+- [ ] step-builder
+- [ ] state
+- [ ] specification
+- [ ] service-locator
+- [ ] service-layer
+- [ ] servant
+- [ ] semaphore
+- [ ] resource-acquisition-is-init
+- [ ] repository
+- [ ] reactor
+- [ ] reader-writer-lock
+- [ ] publish-subscrible
+- [ ] prototype
+- [ ] property
+- [ ] promise
+- [ ] producer-consumer
+- [ ] private-calss-data
+- [ ] poson-pill
+- [ ] Observer
+- [ ] page-object
+- [ ] Object-pool
+- [ ] null-object
+- [ ] naked-objects
+- [ ] mutex
+- [ ] multiton
+- [ ] monostate
+- [ ] monad
+- [ ] fkyweight
+- [ ] front-controller
+- [ ] half-snyc-half-async
+- [ ] hexagonal
+- [ ] intercepting-filter
+- [ ] interpreter
+- [ ] iterator
+- [ ] layers
+- [ ] lazy-loadding
+- [ ] mediator
+- [ ] memento
+- [ ] message-channel
+- [ ] movel-view-controller
+- [ ] model-view-presenter
+
+# License
+This project is licensed under the terms of the MIT license.
